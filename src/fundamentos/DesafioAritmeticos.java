@@ -11,7 +11,7 @@ public class DesafioAritmeticos {
 		System.out.println(c); */
 		
 		int var1 = (int) Math.pow((6 * (3+2)), 2) / (3*2);
-		System.out.println(var1);
+		System.out.println(var1); 
 		
 		int var2 = (int) Math.pow(((1-5) * (2-7)) / 2,2);
 		System.out.println(var2);
