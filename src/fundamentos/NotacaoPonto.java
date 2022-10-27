@@ -20,5 +20,7 @@ public class NotacaoPonto {
 				
 		// Tipos primitivos não tem operador "."
 		
+		
+		
 	}
 }
