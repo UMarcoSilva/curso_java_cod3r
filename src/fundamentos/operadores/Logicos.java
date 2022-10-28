@@ -14,12 +14,14 @@ public class Logicos {
 		System.out.println("tabela verdade E(AND)");
 		System.out.println(true && true);
 		System.out.println(true && false);
-		System.out.println(false && true);
-		System.out.println(false && false);
+		//System.out.println(false && true); dead line
+		//System.out.println(false && false); dead line
+		
+		//Dead line é quando ja le falso e nota-se que nao adianta ler o true, linha "inutil"
 		
 		System.out.println("\nTabela verdade OU(OR)");
-		System.out.println(true || true);
-		System.out.println(true || false);
+		//System.out.println(true || true); dead line
+		//System.out.println(true || false); dead line
 		System.out.println(false || true);
 		System.out.println(false || false);
 		

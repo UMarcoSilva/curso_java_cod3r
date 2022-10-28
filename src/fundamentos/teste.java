@@ -14,6 +14,8 @@ public class teste {
 	    String nome = teclado.nextLine();
 	    System.out.println("Qual o seu sobrenome?");
 	    String sobrenome = teclado.nextLine();
+	    
+	    System.out.printf("Idade: %s Nome: %s Sobrenome: %s", idade, nome, sobrenome);
 	 
 	    teclado.close();
 	}
